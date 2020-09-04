@@ -1,0 +1,1936 @@
+fileFormatVersion: 2
+guid: 74bb7fcc7be0f49f7a09fda2a750f052
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2425704245023075855
+    second: Penny official_0
+  - first:
+      213: 7256736341064615443
+    second: Penny official_1
+  - first:
+      213: 8627401617072293992
+    second: Penny official_2
+  - first:
+      213: 5614468289557690460
+    second: Penny official_3
+  - first:
+      213: 5266494274124674991
+    second: Penny official_4
+  - first:
+      213: 8560794647505035185
+    second: Penny official_5
+  - first:
+      213: 3022526287620942902
+    second: Penny official_6
+  - first:
+      213: -2406448767200474253
+    second: Penny official_7
+  - first:
+      213: -2969687696172930322
+    second: Penny official_8
+  - first:
+      213: 7716829821710591968
+    second: Penny official_9
+  - first:
+      213: 4486214761193806355
+    second: Penny official_10
+  - first:
+      213: 4604223039878215444
+    second: Penny official_11
+  - first:
+      213: 467595929857126317
+    second: Penny official_12
+  - first:
+      213: 4242281489770897681
+    second: Penny official_13
+  - first:
+      213: -3805089711890128031
+    second: Penny official_14
+  - first:
+      213: -517055244937434022
+    second: Penny official_15
+  - first:
+      213: -2397044498382217777
+    second: Penny official_16
+  - first:
+      213: 7481630722607857826
+    second: Penny official_17
+  - first:
+      213: -832764960268713461
+    second: Penny official_18
+  - first:
+      213: -5390073850971910798
+    second: Penny official_19
+  - first:
+      213: 4337249707123619534
+    second: Penny official_20
+  - first:
+      213: 5252593170112772596
+    second: Penny official_21
+  - first:
+      213: 2187108669827458038
+    second: Penny official_22
+  - first:
+      213: -5814560988269803596
+    second: Penny official_23
+  - first:
+      213: -1853355421467235471
+    second: Penny official_24
+  - first:
+      213: 6304348102123735670
+    second: Penny official_25
+  - first:
+      213: 4355220224091344862
+    second: Penny official_26
+  - first:
+      213: 7071627961931309077
+    second: Penny official_27
+  - first:
+      213: 2196326295644031758
+    second: Penny official_28
+  - first:
+      213: 8922502133595189396
+    second: Penny official_29
+  - first:
+      213: 6400870072451019126
+    second: Penny official_30
+  - first:
+      213: 4028488479857319204
+    second: Penny official_31
+  - first:
+      213: -4604062679245287486
+    second: Penny official_32
+  - first:
+      213: 2411609059308466138
+    second: Penny official_33
+  - first:
+      213: -8510243420625072637
+    second: Penny official_34
+  - first:
+      213: 4840095615269564332
+    second: Penny official_35
+  - first:
+      213: 4974911775465319853
+    second: Penny official_36
+  - first:
+      213: 8891917834961227965
+    second: Penny official_37
+  - first:
+      213: 2903371629178145688
+    second: Penny official_38
+  - first:
+      213: -7956109583767711462
+    second: Penny official_39
+  - first:
+      213: -7151038544937684384
+    second: Penny official_40
+  - first:
+      213: 3733370921155592144
+    second: Penny official_41
+  - first:
+      213: -4923463681648065480
+    second: Penny official_42
+  - first:
+      213: 6562058072641639027
+    second: Penny official_43
+  - first:
+      213: -9180576951026501536
+    second: Penny official_44
+  - first:
+      213: 249053036964847314
+    second: Penny official_45
+  - first:
+      213: 4081516501967133998
+    second: Penny official_46
+  - first:
+      213: 1058225817633863486
+    second: Penny official_47
+  - first:
+      213: 7719491882117555940
+    second: Penny official_48
+  - first:
+      213: -3040205307233949835
+    second: Penny official_49
+  - first:
+      213: -2860256320272092589
+    second: Penny official_50
+  - first:
+      213: 8913397660964074260
+    second: Penny official_51
+  - first:
+      213: 1468492561684579555
+    second: Penny official_52
+  - first:
+      213: -8893406444523724630
+    second: Penny official_53
+  - first:
+      213: -7667700069668973894
+    second: Penny official_54
+  - first:
+      213: -910955846904098011
+    second: Penny official_55
+  - first:
+      213: 5128716815202029930
+    second: Penny official_56
+  - first:
+      213: 8878804747249266724
+    second: Penny official_57
+  - first:
+      213: -6442641906645332251
+    second: Penny official_58
+  - first:
+      213: 3486690436319766665
+    second: Penny official_59
+  - first:
+      213: -7592772585597269897
+    second: Penny official_60
+  - first:
+      213: 3950479301099771850
+    second: Penny official_61
+  - first:
+      213: -637151868501767472
+    second: Penny official_62
+  - first:
+      213: -3297979499916707393
+    second: Penny official_63
+  - first:
+      213: 5871028106353816950
+    second: Penny official_64
+  - first:
+      213: -3099468950457279082
+    second: Penny official_65
+  - first:
+      213: 4672894779041886318
+    second: Penny official_66
+  - first:
+      213: -6347176874066174246
+    second: Penny official_67
+  - first:
+      213: 1775285353808892206
+    second: Penny official_68
+  - first:
+      213: 2421358160488256945
+    second: Penny official_69
+  - first:
+      213: 3135257412319049213
+    second: Penny official_70
+  - first:
+      213: 5371684423531123428
+    second: Penny official_71
+  - first:
+      213: -1199299120099279617
+    second: Penny official_72
+  - first:
+      213: 4119125199798980238
+    second: Penny official_73
+  - first:
+      213: -8295721303746891677
+    second: Penny official_74
+  - first:
+      213: -6150035020404772562
+    second: Penny official_75
+  - first:
+      213: 6624702794752970538
+    second: Penny official_76
+  - first:
+      213: -7034821742161851971
+    second: Penny official_77
+  - first:
+      213: 73268083934170528
+    second: Penny official_78
+  - first:
+      213: -1495161256211173757
+    second: Penny official_79
+  - first:
+      213: -4340704837320377103
+    second: Penny official_80
+  - first:
+      213: 6654243015886366699
+    second: Penny official_81
+  - first:
+      213: 3922333978758044909
+    second: Penny official_82
+  - first:
+      213: -641219787012369528
+    second: Penny official_83
+  - first:
+      213: 7383642145120490353
+    second: Penny official_84
+  - first:
+      213: 3831996031047467135
+    second: Penny official_85
+  - first:
+      213: -1231592007304122995
+    second: Penny official_86
+  - first:
+      213: 3014585341598813904
+    second: Penny official_87
+  - first:
+      213: 3258810670565034073
+    second: Penny official_88
+  - first:
+      213: 8893222335952299100
+    second: Penny official_89
+  - first:
+      213: 8788365800828105127
+    second: Penny official_90
+  - first:
+      213: 2824890015690676861
+    second: Penny official_91
+  - first:
+      213: -6215011052525517785
+    second: Penny official_92
+  - first:
+      213: -8609950064701216154
+    second: Penny official_93
+  - first:
+      213: 3719143971451376244
+    second: Penny official_94
+  - first:
+      213: -5368392675853962700
+    second: Penny official_95
+  - first:
+      213: -6007813541433183134
+    second: Penny official_96
+  - first:
+      213: 7202095085126829397
+    second: Penny official_97
+  - first:
+      213: 4583063448988620216
+    second: Penny official_98
+  - first:
+      213: 6693700150246050251
+    second: Penny official_99
+  - first:
+      213: 1980872761565016492
+    second: Penny official_100
+  - first:
+      213: -4897633399097339062
+    second: Penny official_101
+  - first:
+      213: 4508614857333240004
+    second: Penny official_102
+  - first:
+      213: -6284856470892600492
+    second: Penny official_103
+  - first:
+      213: 7392050357774345182
+    second: Penny official_104
+  - first:
+      213: -3840856735162085796
+    second: Penny official_105
+  - first:
+      213: 7819339516417788518
+    second: Penny official_106
+  - first:
+      213: -1553273742966586634
+    second: Penny official_107
+  - first:
+      213: 3022446533323487139
+    second: Penny official_108
+  - first:
+      213: 6258656467123107899
+    second: Penny official_109
+  - first:
+      213: -6346173934927368353
+    second: Penny official_110
+  - first:
+      213: 1341402636922651735
+    second: Penny official_111
+  - first:
+      213: 5583728480004431157
+    second: Penny official_112
+  - first:
+      213: 3647454309320435617
+    second: Penny official_113
+  - first:
+      213: 3111254826771223979
+    second: Penny official_114
+  - first:
+      213: 3092488082357742248
+    second: Penny official_115
+  - first:
+      213: -4716633053510901684
+    second: Penny official_116
+  - first:
+      213: 6245292493617929394
+    second: Penny official_117
+  - first:
+      213: 2786156502588173516
+    second: Penny official_118
+  - first:
+      213: 3258723737629377454
+    second: Penny official_119
+  - first:
+      213: 2691586861820994079
+    second: Penny official_120
+  - first:
+      213: 6723237741590924534
+    second: Penny official_121
+  - first:
+      213: -1691995682583518072
+    second: Penny official_122
+  - first:
+      213: 709571503286015203
+    second: Penny official_123
+  - first:
+      213: 8372952672660337027
+    second: Penny official_124
+  - first:
+      213: 5034884464241191227
+    second: Penny official_125
+  - first:
+      213: -4431286347812252164
+    second: Penny official_126
+  - first:
+      213: -6134299696109896689
+    second: Penny official_127
+  - first:
+      213: 1349027880595662471
+    second: Penny official_128
+  - first:
+      213: -1928184427757668131
+    second: Penny official_129
+  - first:
+      213: -2547609200951112028
+    second: Penny official_130
+  - first:
+      213: -8308572563594816837
+    second: Penny official_131
+  - first:
+      213: 1219514154186193971
+    second: Penny official_132
+  - first:
+      213: 363385655811112534
+    second: Penny official_133
+  - first:
+      213: -6163496774224004242
+    second: Penny official_134
+  - first:
+      213: 8213604036068958949
+    second: Penny official_135
+  - first:
+      213: 1703257347594469427
+    second: Penny official_136
+  - first:
+      213: 4088447756340811924
+    second: Penny official_137
+  - first:
+      213: 5747755896034179091
+    second: Penny official_138
+  - first:
+      213: -1368353960514944985
+    second: Penny official_139
+  - first:
+      213: 2264848354098241517
+    second: Penny official_140
+  - first:
+      213: 116935789874593371
+    second: Penny official_141
+  - first:
+      213: -4862071001007105239
+    second: Penny official_142
+  - first:
+      213: 8790687771774999057
+    second: Penny official_143
+  - first:
+      213: 2067596970270150275
+    second: Penny official_144
+  - first:
+      213: -5911834671293922702
+    second: Penny official_145
+  - first:
+      213: -2162662368244911165
+    second: Penny official_146
+  - first:
+      213: 8298972767997294746
+    second: Penny official_147
+  - first:
+      213: -2085518607806322609
+    second: Penny official_148
+  - first:
+      213: -181263565877459932
+    second: Penny official_149
+  - first:
+      213: 7766040946458672811
+    second: Penny official_150
+  - first:
+      213: 4485608988513813764
+    second: Penny official_151
+  - first:
+      213: -2047960728027688230
+    second: Penny official_152
+  - first:
+      213: 8693080938017630233
+    second: Penny official_153
+  - first:
+      213: 1030754961871202419
+    second: Penny official_154
+  - first:
+      213: 9138462620280540454
+    second: Penny official_155
+  - first:
+      213: -7108452113542530098
+    second: Penny official_156
+  - first:
+      213: -1916572364647542252
+    second: Penny official_157
+  - first:
+      213: 5499814746188640202
+    second: Penny official_158
+  - first:
+      213: -7651099963182892947
+    second: Penny official_159
+  - first:
+      213: 7248448239387011172
+    second: Penny official_160
+  - first:
+      213: -2084251925001825665
+    second: Penny official_161
+  - first:
+      213: 2777178837898403167
+    second: Penny official_162
+  - first:
+      213: -3314430325457136684
+    second: Penny official_163
+  - first:
+      213: -5052925763809635918
+    second: Penny official_164
+  - first:
+      213: -2816921638261258547
+    second: Penny official_165
+  - first:
+      213: -6753203662976449199
+    second: Penny official_166
+  - first:
+      213: 7520341043137192399
+    second: Penny official_167
+  - first:
+      213: 3383900955214343999
+    second: Penny official_168
+  - first:
+      213: 4650437294891690839
+    second: Penny official_169
+  - first:
+      213: -3861936683829232536
+    second: Penny official_170
+  - first:
+      213: -8512982722669751468
+    second: Penny official_171
+  - first:
+      213: 4579360755797477480
+    second: Penny official_172
+  - first:
+      213: 4336440677006298740
+    second: Penny official_173
+  - first:
+      213: -4674543529210049011
+    second: Penny official_174
+  - first:
+      213: -4329603948847133350
+    second: Penny official_175
+  - first:
+      213: 9182119066545548967
+    second: Penny official_176
+  - first:
+      213: 413354360732630346
+    second: Penny official_177
+  - first:
+      213: -1105862252805592638
+    second: Penny official_178
+  - first:
+      213: 276364698500883491
+    second: Penny official_179
+  - first:
+      213: 1024614004287207479
+    second: Penny official_180
+  - first:
+      213: -140589616375740518
+    second: Penny official_181
+  - first:
+      213: -3071903150440115292
+    second: Penny official_182
+  - first:
+      213: 4969346867747396999
+    second: Penny official_183
+  - first:
+      213: 978555082771547955
+    second: Penny official_184
+  - first:
+      213: -1682308363137491500
+    second: Penny official_185
+  - first:
+      213: 5288344591365256724
+    second: Penny official_186
+  - first:
+      213: -6327278299645303367
+    second: Penny official_187
+  - first:
+      213: -4902263240967876678
+    second: Penny official_188
+  - first:
+      213: -135944099533024088
+    second: Penny official_189
+  - first:
+      213: 1081609131668175651
+    second: Penny official_190
+  - first:
+      213: -4150875085466335491
+    second: Penny official_191
+  - first:
+      213: -5634508633047149551
+    second: Penny official_192
+  - first:
+      213: -8073070256579330105
+    second: Penny official_193
+  - first:
+      213: 5258549566870099364
+    second: Penny official_194
+  - first:
+      213: -613077510259748115
+    second: Penny official_195
+  - first:
+      213: 6693864053157572353
+    second: Penny official_196
+  - first:
+      213: 6234547740287686376
+    second: Penny official_197
+  - first:
+      213: 4825426722056731763
+    second: Penny official_198
+  - first:
+      213: -2269060822908785864
+    second: Penny official_199
+  - first:
+      213: -7601211725282527795
+    second: Penny official_200
+  - first:
+      213: 5094434745366961420
+    second: Penny official_201
+  - first:
+      213: 8636910227791263200
+    second: Penny official_202
+  - first:
+      213: -4860959075611707199
+    second: Penny official_203
+  - first:
+      213: -7853083305927388113
+    second: Penny official_204
+  - first:
+      213: 44662350310895169
+    second: Penny official_205
+  - first:
+      213: 7491204960213200637
+    second: Penny official_206
+  - first:
+      213: -2007075101687020117
+    second: Penny official_207
+  - first:
+      213: 356783102740027253
+    second: Penny official_208
+  - first:
+      213: 5293204389505040435
+    second: Penny official_209
+  - first:
+      213: -1555982153436167939
+    second: Penny official_210
+  - first:
+      213: 9198075234358214983
+    second: Penny official_211
+  - first:
+      213: 7806117430758974669
+    second: Penny official_212
+  - first:
+      213: -8288571074818971589
+    second: Penny official_213
+  - first:
+      213: -2999592334952169608
+    second: Penny official_214
+  - first:
+      213: -1229502259273702934
+    second: Penny official_215
+  - first:
+      213: 8148020022060680194
+    second: Penny official_216
+  - first:
+      213: -6869302974863547395
+    second: Penny official_217
+  - first:
+      213: -3531167465211476839
+    second: Penny official_218
+  - first:
+      213: -8915275381040689685
+    second: Penny official_219
+  - first:
+      213: 675325826914089896
+    second: Penny official_220
+  - first:
+      213: 7089091463398159706
+    second: Penny official_221
+  - first:
+      213: 3175770270585209693
+    second: Penny official_222
+  - first:
+      213: 764342241146936777
+    second: Penny official_223
+  - first:
+      213: -2888477686800197707
+    second: Penny official_224
+  - first:
+      213: 7206047192458518851
+    second: Penny official_225
+  - first:
+      213: 4396085604806314071
+    second: Penny official_226
+  - first:
+      213: 1696450248676165443
+    second: Penny official_227
+  - first:
+      213: 6757114301024342202
+    second: Penny official_228
+  - first:
+      213: -4480891619550040575
+    second: Penny official_229
+  - first:
+      213: -5426674218887148485
+    second: Penny official_230
+  - first:
+      213: 669662796194099515
+    second: Penny official_231
+  - first:
+      213: 6316308187058110006
+    second: Penny official_232
+  - first:
+      213: -2031228799714147307
+    second: Penny official_233
+  - first:
+      213: -7083198040932053235
+    second: Penny official_234
+  - first:
+      213: -3171795205605066766
+    second: Penny official_235
+  - first:
+      213: 7881662613202875338
+    second: Penny official_236
+  - first:
+      213: 8627133890477816160
+    second: Penny official_237
+  - first:
+      213: -7581408758841660614
+    second: Penny official_238
+  - first:
+      213: -3109105224233488003
+    second: Penny official_239
+  - first:
+      213: 7420428287492548917
+    second: Penny official_240
+  - first:
+      213: -1874196445467140957
+    second: Penny official_241
+  - first:
+      213: -7486671744221109541
+    second: Penny official_242
+  - first:
+      213: 8327550714461968339
+    second: Penny official_243
+  - first:
+      213: 7897366055341547864
+    second: Penny official_244
+  - first:
+      213: -6458327590802870673
+    second: Penny official_245
+  - first:
+      213: -7161085649857950712
+    second: Penny official_246
+  - first:
+      213: -3532601814359010900
+    second: Penny official_247
+  - first:
+      213: 4714714431853306076
+    second: Penny official_248
+  - first:
+      213: -6400911846401836505
+    second: Penny official_249
+  - first:
+      213: -8729968751340477357
+    second: Penny official_250
+  - first:
+      213: 7698747248388830097
+    second: Penny official_251
+  - first:
+      213: -9171500887559556597
+    second: Penny official_252
+  - first:
+      213: 5959910034885699464
+    second: Penny official_253
+  - first:
+      213: -8544610323716446755
+    second: Penny official_254
+  - first:
+      213: -3878952163054489268
+    second: Penny official_255
+  - first:
+      213: 1634877752524600615
+    second: Penny official_256
+  - first:
+      213: 5236385081900590686
+    second: Penny official_257
+  - first:
+      213: -1954184909771757571
+    second: Penny official_258
+  - first:
+      213: 3244647707722409266
+    second: Penny official_259
+  - first:
+      213: -2848329313258864701
+    second: Penny official_260
+  - first:
+      213: -7521925909259030644
+    second: Penny official_261
+  - first:
+      213: 3092251837872147531
+    second: Penny official_262
+  - first:
+      213: 7636803329366305179
+    second: Penny official_263
+  - first:
+      213: -847791159363476452
+    second: Penny official_264
+  - first:
+      213: -1942470759590953619
+    second: Penny official_265
+  - first:
+      213: -3873481535492714683
+    second: Penny official_266
+  - first:
+      213: -8579956239857392515
+    second: Penny official_267
+  - first:
+      213: 6433990596907860230
+    second: Penny official_268
+  - first:
+      213: 5722981473511088846
+    second: Penny official_269
+  - first:
+      213: 2960134733174727793
+    second: Penny official_270
+  - first:
+      213: -2133179418846315180
+    second: Penny official_271
+  - first:
+      213: 6532792566336003320
+    second: Penny official_272
+  - first:
+      213: -258265054928801096
+    second: Penny official_273
+  - first:
+      213: 6710172799581055176
+    second: Penny official_274
+  - first:
+      213: 3550302859980449201
+    second: Penny official_275
+  - first:
+      213: -3228652410126274391
+    second: Penny official_276
+  - first:
+      213: -1427462215910003099
+    second: Penny official_277
+  - first:
+      213: -8229387732055478320
+    second: Penny official_278
+  - first:
+      213: -7940479489945108070
+    second: Penny official_279
+  - first:
+      213: 3825624382527064541
+    second: Penny official_280
+  - first:
+      213: 2801899213076740900
+    second: Penny official_281
+  - first:
+      213: 3081563065378935444
+    second: Penny official_282
+  - first:
+      213: 4814524288417772308
+    second: Penny official_283
+  - first:
+      213: 1869371042861847322
+    second: Penny official_284
+  - first:
+      213: 8818732247721941423
+    second: Penny official_285
+  - first:
+      213: 8150916857533865878
+    second: Penny official_286
+  - first:
+      213: -6590271426264939612
+    second: Penny official_287
+  - first:
+      213: 6641225688265170573
+    second: Penny official_288
+  - first:
+      213: -105403518771579513
+    second: Penny official_289
+  - first:
+      213: -3630314421336484899
+    second: Penny official_290
+  - first:
+      213: 8706168474875900770
+    second: Penny official_291
+  - first:
+      213: 5167920887803009666
+    second: Penny official_292
+  - first:
+      213: 1717879742175740768
+    second: Penny official_293
+  - first:
+      213: 3959610558913255444
+    second: Penny official_294
+  - first:
+      213: -770376091853564975
+    second: Penny official_295
+  - first:
+      213: 5538897045150703327
+    second: Penny official_296
+  - first:
+      213: 2078314798835877746
+    second: Penny official_297
+  - first:
+      213: 6681434636783109928
+    second: Penny official_298
+  - first:
+      213: -6663459025602298482
+    second: Penny official_299
+  - first:
+      213: -8657879520190078017
+    second: Penny official_300
+  - first:
+      213: -2288406880048439082
+    second: Penny official_301
+  - first:
+      213: 7424712738389217071
+    second: Penny official_302
+  - first:
+      213: -1451315599848352723
+    second: Penny official_303
+  - first:
+      213: -3115271543028407756
+    second: Penny official_304
+  - first:
+      213: -8633604555646732692
+    second: Penny official_305
+  - first:
+      213: 165873505699527993
+    second: Penny official_306
+  - first:
+      213: 4329842400071133438
+    second: Penny official_307
+  - first:
+      213: -2895180423429715426
+    second: Penny official_308
+  - first:
+      213: -8382678873111548608
+    second: Penny official_309
+  - first:
+      213: 5823747915059100766
+    second: Penny official_310
+  - first:
+      213: 1117000037224390875
+    second: Penny official_311
+  - first:
+      213: 6158538384733354239
+    second: Penny official_312
+  - first:
+      213: 8547600353494734133
+    second: Penny official_313
+  - first:
+      213: -810848603378499237
+    second: Penny official_314
+  - first:
+      213: -1023779263046595471
+    second: Penny official_315
+  - first:
+      213: 4214687086881754337
+    second: Penny official_316
+  - first:
+      213: -6956598065725353233
+    second: Penny official_317
+  - first:
+      213: 9006185235941765933
+    second: Penny official_318
+  - first:
+      213: 1167121725334301196
+    second: Penny official_319
+  - first:
+      213: 8149807374433744291
+    second: Penny official_320
+  - first:
+      213: -8320951206645436781
+    second: Penny official_321
+  - first:
+      213: 2808840030229318181
+    second: Penny official_322
+  - first:
+      213: 8997460282908704932
+    second: Penny official_323
+  - first:
+      213: 3004997657987039339
+    second: Penny official_324
+  - first:
+      213: -6933262649896521954
+    second: Penny official_325
+  - first:
+      213: -3240090072895627
+    second: Penny official_326
+  - first:
+      213: -913467008307076207
+    second: Penny official_327
+  - first:
+      213: 1918464765149730981
+    second: Penny official_328
+  - first:
+      213: -8429485043677786104
+    second: Penny official_329
+  - first:
+      213: -3612126296025241818
+    second: Penny official_330
+  - first:
+      213: -9142186232870835528
+    second: Penny official_331
+  - first:
+      213: 3682234681944303153
+    second: Penny official_332
+  - first:
+      213: 1054057114852319426
+    second: Penny official_333
+  - first:
+      213: -5427773149856725926
+    second: Penny official_334
+  - first:
+      213: 4066587042159592202
+    second: Penny official_335
+  - first:
+      213: -1334541927800333763
+    second: Penny official_336
+  - first:
+      213: 4377342976145732903
+    second: Penny official_337
+  - first:
+      213: 960730917476520654
+    second: Penny official_338
+  - first:
+      213: 3033261884748860064
+    second: Penny official_339
+  - first:
+      213: 5327562657238082345
+    second: Penny official_340
+  - first:
+      213: 1116062621685915173
+    second: Penny official_341
+  - first:
+      213: -5697093212715183662
+    second: Penny official_342
+  - first:
+      213: -2827275474148252996
+    second: Penny official_343
+  - first:
+      213: -1698428046201687979
+    second: Penny official_344
+  - first:
+      213: -6879688457445202201
+    second: Penny official_345
+  - first:
+      213: 5803504901249766620
+    second: Penny official_346
+  - first:
+      213: -8484318682813669167
+    second: Penny official_347
+  - first:
+      213: 7182868262319003373
+    second: Penny official_348
+  - first:
+      213: -5750621115513040558
+    second: Penny official_349
+  - first:
+      213: -7227189683026772279
+    second: Penny official_350
+  - first:
+      213: -7812280196662369492
+    second: Penny official_351
+  - first:
+      213: 1089480731839283900
+    second: Penny official_352
+  - first:
+      213: -459399151414356991
+    second: Penny official_353
+  - first:
+      213: -3137038637206705092
+    second: Penny official_354
+  - first:
+      213: 6365112384914262743
+    second: Penny official_355
+  - first:
+      213: -5130694640105492181
+    second: Penny official_356
+  - first:
+      213: -1805335528632223251
+    second: Penny official_357
+  - first:
+      213: 8626833413351736173
+    second: Penny official_358
+  - first:
+      213: -7142661992204818014
+    second: Penny official_359
+  - first:
+      213: -4935558470308947185
+    second: Penny official_360
+  - first:
+      213: 6384780828416666056
+    second: Penny official_361
+  - first:
+      213: -6684988592948752944
+    second: Penny official_362
+  - first:
+      213: 2101407449685306432
+    second: Penny official_363
+  - first:
+      213: -4384597682449250563
+    second: Penny official_364
+  - first:
+      213: 7705321738180142711
+    second: Penny official_365
+  - first:
+      213: -6663121815604370896
+    second: Penny official_366
+  - first:
+      213: -4825464816894744052
+    second: Penny official_367
+  - first:
+      213: -2059666046979045593
+    second: Penny official_368
+  - first:
+      213: -1585138053033110085
+    second: Penny official_369
+  - first:
+      213: 8530465005196830106
+    second: Penny official_370
+  - first:
+      213: -2928498786668331336
+    second: Penny official_371
+  - first:
+      213: -8909479895635211193
+    second: Penny official_372
+  - first:
+      213: 5956696792528519020
+    second: Penny official_373
+  - first:
+      213: -1376620533262209975
+    second: Penny official_374
+  - first:
+      213: 3379002659749125690
+    second: Penny official_375
+  - first:
+      213: -6933831622304288415
+    second: Penny official_376
+  - first:
+      213: -400882700014492301
+    second: Penny official_377
+  - first:
+      213: 297216198095648632
+    second: Penny official_378
+  - first:
+      213: 6496193732473575355
+    second: Penny official_379
+  - first:
+      213: -2240428694481810248
+    second: Penny official_380
+  - first:
+      213: -7583863701383360469
+    second: Penny official_381
+  - first:
+      213: -2317769859977958745
+    second: Penny official_382
+  - first:
+      213: -801111814764658198
+    second: Penny official_383
+  - first:
+      213: 3738961100739206323
+    second: Penny official_384
+  - first:
+      213: -4955963764100846644
+    second: Penny official_385
+  - first:
+      213: -3924716742844959134
+    second: Penny official_386
+  - first:
+      213: 2416721024290054218
+    second: Penny official_387
+  - first:
+      213: 861841858952767981
+    second: Penny official_388
+  - first:
+      213: 7081882702879774541
+    second: Penny official_389
+  - first:
+      213: 8107286373689721961
+    second: Penny official_390
+  - first:
+      213: -3823625088388950336
+    second: Penny official_391
+  - first:
+      213: -3315877895499923168
+    second: Penny official_392
+  - first:
+      213: -7338250681794477731
+    second: Penny official_393
+  - first:
+      213: -1739253115039649169
+    second: Penny official_394
+  - first:
+      213: -1853876903087766115
+    second: Penny official_395
+  - first:
+      213: -5436603727080511498
+    second: Penny official_396
+  - first:
+      213: -876424137233205257
+    second: Penny official_397
+  - first:
+      213: 3799673896651915036
+    second: Penny official_398
+  - first:
+      213: 8378209797523472465
+    second: Penny official_399
+  - first:
+      213: 8718759636617186417
+    second: Penny official_400
+  - first:
+      213: -4634400463483895
+    second: Penny official_401
+  - first:
+      213: 188864516784557275
+    second: Penny official_402
+  - first:
+      213: -1808644958209314719
+    second: Penny official_403
+  - first:
+      213: 7166645544345633149
+    second: Penny official_404
+  - first:
+      213: -8907896096282538270
+    second: Penny official_405
+  - first:
+      213: -1432302134843961112
+    second: Penny official_406
+  - first:
+      213: -5801230777170320378
+    second: Penny official_407
+  - first:
+      213: 2980307825438679251
+    second: Penny official_408
+  - first:
+      213: -8085897433734459404
+    second: Penny official_409
+  - first:
+      213: 3258039736674566488
+    second: Penny official_410
+  - first:
+      213: -7621075452978025490
+    second: Penny official_411
+  - first:
+      213: 9067340231697696104
+    second: Penny official_412
+  - first:
+      213: 1148453758542776503
+    second: Penny official_413
+  - first:
+      213: -2314959536610958243
+    second: Penny official_414
+  - first:
+      213: 7921501088183835059
+    second: Penny official_415
+  - first:
+      213: 501796842699388421
+    second: Penny official_416
+  - first:
+      213: -1904265159679210741
+    second: Penny official_417
+  - first:
+      213: -4668653738018949513
+    second: Penny official_418
+  - first:
+      213: -6505457532318561829
+    second: Penny official_419
+  - first:
+      213: 8838651791196608057
+    second: Penny official_420
+  - first:
+      213: 8988166781407393926
+    second: Penny official_421
+  - first:
+      213: 6236972586536530101
+    second: Penny official_422
+  - first:
+      213: 1460247571483659212
+    second: Penny official_423
+  - first:
+      213: -3407959202257281750
+    second: Penny official_424
+  - first:
+      213: -8028526030502749952
+    second: Penny official_425
+  - first:
+      213: -1250999280191641401
+    second: Penny official_426
+  - first:
+      213: -8963291535766441931
+    second: Penny official_427
+  - first:
+      213: 1907141012483617161
+    second: Penny official_428
+  - first:
+      213: 5137982365001215770
+    second: Penny official_429
+  - first:
+      213: -7927964032388830344
+    second: Penny official_430
+  - first:
+      213: 249460774935872340
+    second: Penny official_431
+  - first:
+      213: -3838721005910413583
+    second: Penny official_432
+  - first:
+      213: -6458449340408297875
+    second: Penny official_433
+  - first:
+      213: 6330799590949598825
+    second: Penny official_434
+  - first:
+      213: -6412787950378928794
+    second: Penny official_435
+  - first:
+      213: -3748138056644927695
+    second: Penny official_436
+  - first:
+      213: 4991720932727504826
+    second: Penny official_437
+  - first:
+      213: -8198774868520970265
+    second: Penny official_438
+  - first:
+      213: 4163800962813895664
+    second: Penny official_439
+  - first:
+      213: -5455320312740165230
+    second: Penny official_440
+  - first:
+      213: 7914175773348700438
+    second: Penny official_441
+  - first:
+      213: 6997050974199053063
+    second: Penny official_442
+  - first:
+      213: -8664772399006462676
+    second: Penny official_443
+  - first:
+      213: -4289270102028764207
+    second: Penny official_444
+  - first:
+      213: -4988450358711948182
+    second: Penny official_445
+  - first:
+      213: 3974084255049313356
+    second: Penny official_446
+  - first:
+      213: -5016835546977231993
+    second: Penny official_447
+  - first:
+      213: -4685652602238842059
+    second: Penny official_448
+  - first:
+      213: 4357363936642989018
+    second: Penny official_449
+  - first:
+      213: 7331172227551729000
+    second: Penny official_450
+  - first:
+      213: -3288470640830436791
+    second: Penny official_451
+  - first:
+      213: -4580095864558194421
+    second: Penny official_452
+  - first:
+      213: 8542788491741861825
+    second: Penny official_453
+  - first:
+      213: 6651072205881188370
+    second: Penny official_454
+  - first:
+      213: -3666834713322354762
+    second: Penny official_455
+  - first:
+      213: 8530789323608900734
+    second: Penny official_456
+  - first:
+      213: 7200865930851663443
+    second: Penny official_457
+  - first:
+      213: 1893349192493012999
+    second: Penny official_458
+  - first:
+      213: 4540592159242749096
+    second: Penny official_459
+  - first:
+      213: -6020258214034422941
+    second: Penny official_460
+  - first:
+      213: 6129325411512587686
+    second: Penny official_461
+  - first:
+      213: 8822859689086837840
+    second: Penny official_462
+  - first:
+      213: 164875539842750511
+    second: Penny official_463
+  - first:
+      213: 4603395603879786889
+    second: Penny official_464
+  - first:
+      213: 1619596327253573749
+    second: Penny official_465
+  - first:
+      213: -4278509812877038845
+    second: Penny official_466
+  - first:
+      213: -8377198010110312918
+    second: Penny official_467
+  - first:
+      213: 3259708447230415409
+    second: Penny official_468
+  - first:
+      213: -4011231297178967127
+    second: Penny official_469
+  - first:
+      213: 7407570557894865719
+    second: Penny official_470
+  - first:
+      213: -6479145069273948616
+    second: Penny official_471
+  - first:
+      213: 4057196624756327506
+    second: Penny official_472
+  - first:
+      213: 3132013643004962478
+    second: Penny official_473
+  - first:
+      213: 7069662127097915924
+    second: Penny official_474
+  - first:
+      213: -7402653341924733623
+    second: Penny official_475
+  - first:
+      213: 5175486818478777892
+    second: Penny official_476
+  - first:
+      213: 9184543766751343913
+    second: Penny official_477
+  - first:
+      213: 2503807231417540978
+    second: Penny official_478
+  - first:
+      213: 2906200297800565710
+    second: Penny official_479
+  - first:
+      213: 4009939896568243711
+    second: Penny official_480
+  - first:
+      213: 7551787582107060884
+    second: Penny official_0
+  - first:
+      213: -4312998928779112809
+    second: Penny official_1
+  - first:
+      213: 487815815681022021
+    second: Penny official_2
+  - first:
+      213: -660814096714324302
+    second: Penny official_3
+  - first:
+      213: -3456914849301859249
+    second: Penny official_4
+  - first:
+      213: 6124774027393370861
+    second: Penny official_5
+  - first:
+      213: 1722471458825810584
+    second: Penny official_6
+  - first:
+      213: 968244382311756223
+    second: Penny official_7
+  - first:
+      213: 3088033317323155105
+    second: Penny official_8
+  - first:
+      213: -549302671268771674
+    second: Penny official_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Penny official_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a82ba7bc65dc860800000000000000
+      internalID: 7551787582107060884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_1
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e0b7553562524c0800000000000000
+      internalID: -4312998928779112809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_2
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5481c7956e115c600800000000000000
+      internalID: 487815815681022021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_3
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6a5c6841154d6f0800000000000000
+      internalID: -660814096714324302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44f69492429600d0800000000000000
+      internalID: -3456914849301859249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea025807819ff450800000000000000
+      internalID: 6124774027393370861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_6
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892bf0f6aa277e710800000000000000
+      internalID: 1722471458825810584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_7
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1b57fb225ef6d00800000000000000
+      internalID: 968244382311756223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a62e95e0f5eada20800000000000000
+      internalID: 3088033317323155105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a80adc712c7068f0800000000000000
+      internalID: -549302671268771674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_10
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a121b6e8c324e30800000000000000
+      internalID: 4486214761193806355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_11
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4173c96e57c75ef30800000000000000
+      internalID: 4604223039878215444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf6d81550c3d7600800000000000000
+      internalID: 467595929857126317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_13
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1116203d98c9fda30800000000000000
+      internalID: 4242281489770897681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_14
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ab48311b913bc0800000000000000
+      internalID: -3805089711890128031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_15
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c60448efc03d8f0800000000000000
+      internalID: -517055244937434022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penny official_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4165
+        width: 1404
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd9f139abcfbbed0800000000000000
+      internalID: -2397044498382217777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
